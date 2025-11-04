@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Welder-Dev/Welder-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🐐 Welder Oliveira
+**`Em formação Full Stack`** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Estudante e desenvolvedor em formação focado em Full Stack
+- Fundamentos fortes em HTML, CSS e JavaScript
+- Construindo portfólio e projetos com narrativa pública
+
+
+## Skill stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,java,mysql,figma)](https://skillicons.dev)
+
+**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+
+
+---
+
+## Stats
+
+![Welder' GitHub stats](https://github-readme-stats.vercel.app/api?username=Welder-Dev&show_icons=true&theme=github_dark)
+
+---
+
+## Links
+
+- LinkedIn: www.linkedin.com/in/dev-welder-oliveira <br>
+- Gmail: welder.codes@gmail.com
+
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
