@@ -12,8 +12,6 @@
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,java,mysql,figma)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
-
 
 ---
 
