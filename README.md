@@ -1,7 +1,7 @@
 
 
 # 🐐 Welder Oliveira
-**`Em formação Full Stack`** 
+**`Ethical hacking`** 
 
 ## About Me
 - Estudante e desenvolvedor em formação focado em Full Stack
